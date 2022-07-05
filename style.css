@@ -1,0 +1,36 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+}
+
+.name {
+    font-size: 40px;
+    color: white;
+    text-align: center;
+
+}
+
+.fanus {
+    background-image: url(donation7.jpg);
+    background-size: cover;
+    padding: 15%;
+
+
+}
+
+.fanus p {
+    color: white;
+}
+
+.pro {
+    text-align: center;
+}
+
+.ops {
+    background-color: tomato;
+    text-decoration: none;
+    padding: 15px 20px;
+    border-radius: 5px;
+
+
+}
